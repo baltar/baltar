@@ -16,9 +16,9 @@
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| [MC Metalúrgica](#) | Projeto freelance para empresa de metalúrgica | 🚧 Em desenvolvimento |
+| [MC Metalúrgica]([#](https://github.com/baltar/MCMetalurgica)) | Projeto freelance para empresa de metalúrgica | 🚧 Em desenvolvimento |
 | [EasyFridge API](#) | API REST para gerenciamento de itens de geladeira, desenvolvida em Laravel | 🚧 Em desenvolvimento |
-| [Nether Portal Calculator](#) | Calculadora de coordenadas para portais do Nether (Minecraft) | 🚧 Em desenvolvimento |
+| [Nether Portal Calculator]([#](https://github.com/baltar/nether-portal-calculator)) | Calculadora de coordenadas para portais do Nether (Minecraft) | 🚧 Em desenvolvimento |
 
 
 
