@@ -16,8 +16,8 @@
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| [EasyFridge API](#) | API REST para gerenciamento de itens de geladeira, desenvolvida em Laravel | 🚧 Em desenvolvimento |
-| [Nether Portal Calculator](#) | Calculadora de coordenadas para portais do Nether (Minecraft) | 🚧 Em desenvolvimento |
+// | [EasyFridge API](#) | API REST para gerenciamento de itens de geladeira, desenvolvida em Laravel | 🚧 Em desenvolvimento |
+// | [Nether Portal Calculator](#) | Calculadora de coordenadas para portais do Nether (Minecraft) | 🚧 Em desenvolvimento |
 
 ---
 
